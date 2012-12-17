@@ -1,0 +1,74 @@
+[
+	{
+		"name":"Certified Trane Rooftop & Chillers",
+		"class":"trane_rooftop"
+	},
+	{
+		"name":"Certified York Rooftop",
+		"class":"york_rooftop"
+	},
+	{
+		"name":"Certified Carrier Rooftop & Chillers",
+		"class":"carrier_rooftop"
+	},
+	{
+		"name":"Certified McQuay Rooftop & Chillers",
+		"class":"mcquay_rooftop"
+	},
+	{
+		"name":"NATE Certifited",
+		"class":"nate"
+	},
+	{
+		"name":"Automated Logic Controls",
+		"class":"logic_controls"
+	},
+	{
+		"name":"Alerton Controls",
+		"class":"alerton_controls"
+	},
+	{
+		"name":"Trane Controls",
+		"class":"trane_controls"
+	},
+	{
+		"name":"Metasys Systems",
+		"class":"metasys_systems"
+	},
+	{
+		"name":"Siemens Controls",
+		"class":"siemens_controls"
+	},
+	{
+		"name":"Word",
+		"class":"word"
+	},
+	{
+		"name":"Excel",
+		"class":"excel"
+	},
+	{
+		"name":"Sheetmetal Journeyman",
+		"class":"sheetmetal_journeyman"
+	},
+	{
+		"name":"Master Plumber",
+		"class":"master_plumber"
+	},
+	{
+		"name":"Pipefitter Journeyman",
+		"class":"pipefitter_journeyman"
+	},
+	{
+		"name":"Photography",
+		"class":"photography"
+	},
+	{
+		"name":"Spectrometer",
+		"class":"spectrometer"
+	},
+	{
+		"name":"Control Piping",
+		"class":"control_piping"
+	}
+]

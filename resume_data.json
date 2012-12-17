@@ -1,0 +1,217 @@
+[
+	{
+		"Company":"Colorado Mountain College",
+	 	"Title":"Operational Supervisor",
+	 	"Start_Date":"05/1999",
+	 	"End_Date":"Present",
+	 	"Location":"Glenwood Springs, CO",
+	 	"Type":"Job",
+	 	"Class":"alerton_controls logic_controls excel word nate",
+	 	"Experience":[
+	 		{
+	 			"Description":"Instituted college-wide BAS system",
+	 			"Class":"alerton_controls logic_controls",
+	 			"Skills":[
+	 				{
+	 					"Description":"Alerton Controls",
+	 					"class":"alerton_controls"
+	 				},
+	 				{
+	 					"Description":"Automated Logic Controls",
+	 					"class":"logic_controls"
+	 				}
+	 			]
+	 		},
+	 		{
+	 			"Description":"Run the day-to-day operations of the facilities management department",
+	 			"Class":"excel word nate",
+	 			"Skills":[
+	 				{
+	 					"Description":"Excel",
+	 					"class":"excel"
+	 				},
+	 				{
+	 					"Description":"Word",
+	 					"class":"word"
+	 				},
+	 				{
+	 					"Description":"NATE Certification",
+	 					"class":"nate"
+	 				}
+	 			]
+	 		},
+	 		{
+	 			"Description":"Started a training program",
+	 			"Class":"nate",
+	 			"Skills":[
+	 				{
+	 					"Description":"NATE Certification",
+	 					"class":"nate"
+	 				}
+	 			]
+	 		}
+	 	]
+	},
+	{
+		"Company":"Kinder Morgan",
+		"Title":"Lead Installer and Serviceman",
+		"Start_Date":"05/1988",
+		"End_Date":"05/1998",
+		"Location":"Glenwood Springs, CO",
+		"Type":"Job",
+		"Class":"trane_rooftop york_rooftop carrier_rooftop mcquay_rooftop nate spectrometer control_piping",
+		"Experience":[
+			{
+				"Description":"Increased sales by 20%",
+				"Class":"trane_rooftop york_rooftop carrier_rooftop mcquay_rooftop",
+				"Skills":[
+					{
+						"Description":"Certified Trane Rooftop & Chillers",
+						"class":"trane_rooftop"
+					},
+					{
+	 					"Description":"Certified York Rooftop & Chillers",
+	 					"class":"york_rooftop"
+	 				},
+	 				{
+	 					"Description":"Certified Carrier Rooftop & Chillers",
+	 					"class":"carrier_rooftop"
+	 				},
+	 				{
+	 					"Description":"Certified McQuay Rooftop & Chillers",
+	 					"class":"mcquay_rooftop"
+	 				}
+				]
+			},
+			{
+				"Description":"Instituted a training program",
+				"Class":"nate",
+				"Skills":[
+					{
+						"Description":"NATE Certification",
+						"class":"nate"
+					}
+				]
+			},
+			{
+				"Description":"Transferred to Measurement Division and worked with Digital Measurement",
+				"Class":"spectrometer control_piping",
+				"Skills":[
+					{
+						"Description":"Spectrometer",
+						"class":"spectrometer"
+					},
+					{
+						"Description":"Control Piping",
+						"class":"control_piping"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Company":"Bensart Photography",
+		"Title":"Owner",
+		"Start_Date":"1984",
+		"End_Date":"1987",
+		"Location":"Delta, CO",
+		"Type":"Job",
+		"Class":"photography",
+		"Experience":[
+			{
+				"Description":"Portrait Photography",
+				"Class":"photography",
+				"Skills":[
+					{
+						"Description":"Photography",
+						"class":"photography"
+					}
+				]
+			},
+			{
+				"Description":"Commercial Photography",
+				"Class":"photography",
+				"Skills":[
+					{
+						"Description":"Photography",
+						"class":"photography"
+					}
+				]
+			},
+			{
+				"Description":"Scenic Photography",
+				"Class":"photography",
+				"Skills":[
+					{
+						"Description":"Photography",
+						"class":"photography"
+					}
+				]
+			}
+		]
+	},
+	{
+		"Company":"Rocky Mountain Natural Gas",
+		"Title":"Lead Installer and Serviceman",
+		"Start_Date":"1975",
+		"End_Date":"1984",
+		"Location":"Delta, CO",
+		"Type":"Job",
+		"Class":"trane_rooftop york_rooftop carrier_rooftop mcquay_rooftop",
+		"Experience":[
+			{
+				"Description":"Increased sales 45%",
+				"Class":"trane_rooftop york_rooftop carrier_rooftop mcquay_rooftop",
+				"Skills":[
+					{
+						"Description":"Certified Trane Rooftop & Chillers",
+						"class":"trane_rooftop"
+					},
+					{
+	 					"Description":"Certified York Rooftop & Chillers",
+	 					"class":"york_rooftop"
+	 				},
+	 				{
+	 					"Description":"Certified Carrier Rooftop & Chillers",
+	 					"class":"carrier_rooftop"
+	 				},
+	 				{
+	 					"Description":"Certified McQuay Rooftop & Chillers",
+	 					"class":"mcquay_rooftop"
+	 				}
+				]
+			},
+			{
+				"Description":"Won top service honours 1980 - 1983",
+				"Class":"trane_rooftop york_rooftop carrier_rooftop mcquay_rooftop",
+				"Skills":[
+					{
+						"Description":"Certified Trane Rooftop & Chillers",
+						"class":"trane_rooftop"
+					},
+					{
+	 					"Description":"Certified York Rooftop & Chillers",
+	 					"class":"york_rooftop"
+	 				},
+	 				{
+	 					"Description":"Certified Carrier Rooftop & Chillers",
+	 					"class":"carrier_rooftop"
+	 				},
+	 				{
+	 					"Description":"Certified McQuay Rooftop & Chillers",
+	 					"class":"mcquay_rooftop"
+	 				}
+				]
+			}
+		]
+	},
+	{
+		"School":"Delta High School",
+		"Location":"Delta, CO",
+		"Degree":"Diploma",
+		"Start_Date":"1968",
+		"End_Date":"1971",
+		"Type":"School",
+		"Class":""	
+	}
+]
